@@ -23,6 +23,7 @@ Here are some ideas to get you started:
 <h1 align=center>👋 Hi there, I'm Krešimir! 👋</h1>
 
 <h3 align=center>An mechanical engineer 😄 that is passionate developer from Croatia. Welcome to my GitHub profile!</h3>
+	<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
 
 <h2>🔧 Technologies & Tools</h2>
 
@@ -37,7 +38,8 @@ Here are some ideas to get you started:
 
 <h2>📫 Contact me </h2>
 
-- [LinkedIn](https://www.linkedin.com/in/kre%C5%A1imir-bruketa-b94254137/)
+<a href="https://www.linkedin.com/in/kre%C5%A1imir-bruketa-b94254137/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kresimir-linkedin" height="30" width="40" /></a>
+
 - [Email](mailto:kresimir.bruketa@gmail.com)
 
 <h2> 🚀 My Projects </h2>
