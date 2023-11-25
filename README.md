@@ -22,29 +22,29 @@ Here are some ideas to get you started:
 
 <h1 align=center>👋 Hi there! 👋</h1>
 
-I'm Krešimir, a new and passionate junior developer from Croatia. Welcome to my GitHub profile!
+<h3 align=center>I'm Krešimir, a new and passionate junior developer from Croatia. Welcome to my GitHub profile!</h3>
 
-## 🔧 Technologies & Tools
+<h2>🔧 Technologies & Tools</h2>
 
 - Programming Languages: JavaScript
 - Web Technologies: HTML, CSS, React
 - Databases: MySQL, MongoDB
 - Tools: Git, VSCode
 
-## 🌱 I’m currently learning
+<h2>🌱 I’m currently learning</h2>
 
 - React
 
-## 📫 Contact me
+<h2>📫 Contact me </h2>
 
 - [LinkedIn](https://www.linkedin.com/in/kre%C5%A1imir-bruketa-b94254137/)
 - [Email](mailto:kresimir.bruketa@gmail.com)
 
-## 🚀 My Projects
+## 🚀 My Projects </h2>
 
 - [Project 1](link-to-repo) - Short description
 - [Project 2](link-to-repo) - Short description
 
-## 📊 GitHub Stats
+<h2>📊 GitHub Stats </h2>
 
 [![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=kresimirbruketa&show_icons=true&theme=radical)](https://github.com/kresimirbruketa)
