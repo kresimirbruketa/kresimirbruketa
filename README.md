@@ -1,4 +1,4 @@
-### Hi there 👋
+### 
 
 <!--
 **kresimirbruketa/kresimirbruketa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hello, World! 👋
+#👋 Hi there!  👋
 
-I'm [Your Name], a passionate [Your Profession] from [Your Location]. Welcome to my GitHub profile!
+I'm Krešimir, a passionate junior developer from Croatia. Welcome to my GitHub profile!
 
 ## 🔧 Technologies & Tools
 
@@ -48,4 +48,4 @@ I'm [Your Name], a passionate [Your Profession] from [Your Location]. Welcome to
 
 ## 📊 GitHub Stats
 
-[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)](https://github.com/your-username)
+[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=kresimirbruketa&show_icons=true&theme=radical)](https://github.com/kresimirbruketa)
