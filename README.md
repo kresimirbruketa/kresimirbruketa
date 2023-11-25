@@ -70,7 +70,7 @@ Here are some ideas to get you started:
 <h2> ✨ My Skills </h2>
 	<p >
 		<a href="https://skillicons.dev">
-		  <img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,mongodb" />
+		  <img src="https://skillicons.dev/icons?i=js,html,css,react,bootstrap,nodejs,mongodb" />
 		</a>
 	  </p>
 
