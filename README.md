@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - [Specific Types of Projects]
 -->
 
-#👋 Hi there!  👋
+<h1 align=center>👋 Hi there! 👋</h1>
 
 I'm Krešimir, a new and passionate junior developer from Croatia. Welcome to my GitHub profile!
 
