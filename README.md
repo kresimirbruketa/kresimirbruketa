@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 <h1 align=center>👋 Hi there, I'm Krešimir! 👋</h1>
 
-<h3 align=center>A new and passionate junior developer from Croatia. Welcome to my GitHub profile!</h3>
+<h3 align=center>An mechanical engineer 😄 that is passionate developer from Croatia. Welcome to my GitHub profile!</h3>
 
 <h2>🔧 Technologies & Tools</h2>
 
