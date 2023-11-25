@@ -29,7 +29,11 @@ Here are some ideas to get you started:
 <h3 align="center">Welcome to my GitHub profile!</h3>
 
 <p align="center">
-<img  alt="Coding" width="400" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif>
+<img
+      alt="coding"
+      width="400"
+      src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif"
+    />
 </p>
 
 <h2>🔧 Technologies & Tools</h2>
@@ -48,8 +52,6 @@ Here are some ideas to get you started:
 <p align=left>
 <a href="https://www.linkedin.com/in/kre%C5%A1imir-bruketa-b94254137/" target="blank"><img align="center" src="
 " alt="kresimir-linkedin" height="30" width="40" /></a>
-
-<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/email-alt.svg" alt="my-email" width="400" /></a>
 
 - [Email](mailto:kresimir.bruketa@gmail.com)
 </p>
