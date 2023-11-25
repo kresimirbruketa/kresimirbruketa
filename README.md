@@ -18,6 +18,10 @@ Here are some ideas to get you started:
 
 - Open source projects
 - [Specific Types of Projects]
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kresimirbruketa&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="kresimirbruketa" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kresimirbruketa&show_icons=true&locale=en&theme=tokyonight" alt="kresimirbruketa" /></p>
 -->
 
 <h1 align=center>👋 Hi there, I'm Krešimir! 👋</h1>
@@ -54,9 +58,9 @@ Here are some ideas to get you started:
 
 <h2>📊 GitHub Stats </h2>
 
-[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=kresimirbruketa&show_icons=true&theme=radical)](https://github.com/kresimirbruketa)
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kresimirbruketa&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="kresimirbruketa" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kresimirbruketa&show_icons=true&locale=en&theme=tokyonight" alt="kresimirbruketa" /></p>
+[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=kresimirbruketa&show_icons=true&theme=radical)](https://github.com/kresimirbruketa)
+
+
 
