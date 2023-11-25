@@ -49,12 +49,12 @@ Here are some ideas to get you started:
 
 <h2>📫 Contact me </h2>
 
-<p align=left>
-<a href="https://www.linkedin.com/in/kre%C5%A1imir-bruketa-b94254137/">Linked In</a>
-<a mailto:kresimir.bruketa@gmail.com>Email</a>
+
+- [LinkedIn](https://www.linkedin.com/in/your-profile/)
+
 
 - [Email](mailto:kresimir.bruketa@gmail.com)
-</p>
+
 
 <h2> 🚀 My Projects </h2>
 
