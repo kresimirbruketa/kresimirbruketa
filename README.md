@@ -17,20 +17,20 @@ Here are some ideas to get you started:
 
 #👋 Hi there!  👋
 
-I'm Krešimir, a passionate junior developer from Croatia. Welcome to my GitHub profile!
+I'm Krešimir, a new and passionate junior developer from Croatia. Welcome to my GitHub profile!
 
 ## 🔧 Technologies & Tools
 
-- Programming Languages: Python, JavaScript
+- Programming Languages: JavaScript
 - Web Technologies: HTML, CSS, React
 - Databases: MySQL, MongoDB
-- Tools: Git, VSCode, Docker
+- Tools: Git, VSCode
 
 ## 🌱 I’m currently learning
 
-- [Current Learning Focus]
+- React
 
-## 👯 I’m looking to collaborate on
+### 👯 I’m looking to collaborate on
 
 - Open source projects
 - [Specific Types of Projects]
@@ -38,7 +38,6 @@ I'm Krešimir, a passionate junior developer from Croatia. Welcome to my GitHub 
 ## 📫 How to reach me
 
 - [LinkedIn](https://www.linkedin.com/in/your-profile/)
-- [Twitter](https://twitter.com/your_handle)
 - [Email](mailto:your.email@example.com)
 
 ## 🚀 My Projects
