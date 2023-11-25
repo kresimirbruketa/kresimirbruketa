@@ -61,7 +61,7 @@ Here are some ideas to get you started:
 
  <h2> ⚡ Finished Courses ⚡ </h2>
 
-<a href="https://www.udemy.com/course/the-complete-web-development-bootcamp/"><img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Ffreecoursesite.com%2Fwp-content%2Fuploads%2F2022%2F05%2F23184848.jpg&tbnid=ZYAQ8wPW2AuvrM&vet=12ahUKEwjty6jPqN-CAxUrgv0HHa2gDeMQMygBegQIARBO..i&imgrefurl=https%3A%2F%2Ffreecoursesite.com%2Fthe-complete-web-development-bootcamp-8%2F&docid=T4alXPOgve6llM&w=480&h=270&q=the-complete-web-development-bootcamp&ved=2ahUKEwjty6jPqN-CAxUrgv0HHa2gDeMQMygBegQIARBO" alt="course"/></a>
+<a href="https://www.udemy.com/course/the-complete-web-development-bootcamp/"><img src="https://img-b.udemycdn.com/course/750x422/1565838_e54e_18.jpg" alt="course"/></a>
 
 <h2> ✨ My Skills </h2>
 	<p >
