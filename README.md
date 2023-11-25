@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 <h2>🔧 Technologies & Tools</h2>
 
 - Programming Languages: JavaScript
-- Web Technologies: HTML, CSS, React
+- Web Technologies: HTML, CSS, React, Bootstrap
 - Databases: MongoDB
 - Tools: Git, VSCode
 - CAD software: Siemens NX, Creo, Catia, Solidworks
