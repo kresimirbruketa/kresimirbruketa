@@ -13,6 +13,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+## 👯 I’m looking to collaborate on
+
+- Open source projects
+- [Specific Types of Projects]
 -->
 
 #👋 Hi there!  👋
@@ -30,15 +35,10 @@ I'm Krešimir, a new and passionate junior developer from Croatia. Welcome to my
 
 - React
 
-### 👯 I’m looking to collaborate on
+## 📫 Contact me
 
-- Open source projects
-- [Specific Types of Projects]
-
-## 📫 How to reach me
-
-- [LinkedIn](https://www.linkedin.com/in/your-profile/)
-- [Email](mailto:your.email@example.com)
+- [LinkedIn](https://www.linkedin.com/in/kre%C5%A1imir-bruketa-b94254137/)
+- [Email](mailto:kresimir.bruketa@gmail.com)
 
 ## 🚀 My Projects
 
