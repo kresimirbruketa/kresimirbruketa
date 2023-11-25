@@ -63,7 +63,7 @@ Here are some ideas to get you started:
 	[![My Skills](https://skillicons.dev/icons?js,html,css,react,nodejs,mongodb&perline=6)](https://skillicons.dev)
 	<p align="center">
 		<a href="https://skillicons.dev">
-		  <img src="https://skillicons.dev/icons?js,html,css,react,nodejs,mongodb" />
+		  <img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,mongodb" />
 		</a>
 	  </p>
 
