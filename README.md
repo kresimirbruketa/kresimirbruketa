@@ -42,7 +42,8 @@ Here are some ideas to get you started:
 <h2>📫 Contact me </h2>
 
 <p align=left>
-<a href="https://www.linkedin.com/in/kre%C5%A1imir-bruketa-b94254137/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kresimir-linkedin" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/kre%C5%A1imir-bruketa-b94254137/" target="blank"><img align="center" src="
+" alt="kresimir-linkedin" height="30" width="40" /></a>
 
 <a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/email-alt.svg" alt="my-email" height="30" width="40" /></a>
 
@@ -57,6 +58,14 @@ Here are some ideas to get you started:
  <h2> ⚡ Finished Courses ⚡ </h2>
 
 <a href="https://www.udemy.com/course/the-complete-web-development-bootcamp/"><img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Ffreecoursesite.com%2Fwp-content%2Fuploads%2F2022%2F05%2F23184848.jpg&tbnid=ZYAQ8wPW2AuvrM&vet=12ahUKEwjty6jPqN-CAxUrgv0HHa2gDeMQMygBegQIARBO..i&imgrefurl=https%3A%2F%2Ffreecoursesite.com%2Fthe-complete-web-development-bootcamp-8%2F&docid=T4alXPOgve6llM&w=480&h=270&q=the-complete-web-development-bootcamp&ved=2ahUKEwjty6jPqN-CAxUrgv0HHa2gDeMQMygBegQIARBO" alt="course"/></a>
+
+<h2> ✨ My Skills </h2>
+	[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
+	<p align="center">
+		<a href="https://skillicons.dev">
+		  <img src="https://skillicons.dev/icons?js,html,css,react,nodejs,mongodb" />
+		</a>
+	  </p>
 
 
 <h2>📊 GitHub Stats </h2>
