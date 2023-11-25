@@ -33,17 +33,22 @@ Here are some ideas to get you started:
 
 <h2>🌱 I’m currently learning</h2>
 
-- React
+-  React  
 
 <h2>📫 Contact me </h2>
 
 - [LinkedIn](https://www.linkedin.com/in/kre%C5%A1imir-bruketa-b94254137/)
 - [Email](mailto:kresimir.bruketa@gmail.com)
 
-## 🚀 My Projects </h2>
+<h2> 🚀 My Projects </h2>
 
 - [Project 1](link-to-repo) - Short description
 - [Project 2](link-to-repo) - Short description
+
+ <h2> ⚡ Finished Courses ⚡ </h2>
+
+- [The-complete-web-development-bootcamp]([link-to-repo](https://www.udemy.com/course/the-complete-web-development-bootcamp/)) - Short description
+
 
 <h2>📊 GitHub Stats </h2>
 
