@@ -42,9 +42,11 @@ Here are some ideas to get you started:
 
 <h2>📫 Contact me </h2>
 
+<p align=left>
 <a href="https://www.linkedin.com/in/kre%C5%A1imir-bruketa-b94254137/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kresimir-linkedin" height="30" width="40" /></a>
 
 - [Email](mailto:kresimir.bruketa@gmail.com)
+</p>
 
 <h2> 🚀 My Projects </h2>
 
