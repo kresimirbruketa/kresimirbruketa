@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 <h3 align="center">Welcome to my GitHub profile!</h3>
 
 <p align="center">
-<img  alt="Coding" width="400" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif width="100" height="80">
+<img  alt="Coding" width="400" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif width="100">
 </p>
 
 <h2>🔧 Technologies & Tools</h2>
