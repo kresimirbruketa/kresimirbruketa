@@ -20,9 +20,9 @@ Here are some ideas to get you started:
 - [Specific Types of Projects]
 -->
 
-<h1 align=center>👋 Hi there! 👋</h1>
+<h1 align=center>👋 Hi there, I'm Krešimir! 👋</h1>
 
-<h3 align=center>I'm Krešimir, a new and passionate junior developer from Croatia. Welcome to my GitHub profile!</h3>
+<h3 align=center>A new and passionate junior developer from Croatia. Welcome to my GitHub profile!</h3>
 
 <h2>🔧 Technologies & Tools</h2>
 
