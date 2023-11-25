@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 <h1 align=center>👋 Hi there, I'm Krešimir! 👋</h1>
 
 <h3 align=center>An mechanical engineer 😄 that is passionate developer from Croatia. Welcome to my GitHub profile!</h3>
-<img center="center" alt="Coding" width="400" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
+<img align=center alt="Coding" width="400" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
 
 <h2>🔧 Technologies & Tools</h2>
 
