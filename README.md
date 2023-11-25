@@ -42,8 +42,8 @@ Here are some ideas to get you started:
 
 <h2> 🚀 My Projects </h2>
 
-- [Project 1](link-to-repo) - Short description
-- [Project 2](link-to-repo) - Short description
+- [Tours List]([link-to-repo](https://kresimirbruketa.github.io/ToursList/)) - Short description
+- [Dice Game]([link-to-repo](https://kresimirbruketa.github.io/dicegame/)) - Short description
 
  <h2> ⚡ Finished Courses ⚡ </h2>
 
