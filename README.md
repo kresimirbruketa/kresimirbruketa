@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/kre%C5%A1imir-bruketa-b94254137/" target="blank"><img align="center" src="
 " alt="kresimir-linkedin" height="30" width="40" /></a>
 
-<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/email-alt.svg" alt="my-email" height="30" width="40" /></a>
+<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/email-alt.svg" alt="my-email" width="400" /></a>
 
 - [Email](mailto:kresimir.bruketa@gmail.com)
 </p>
