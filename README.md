@@ -58,8 +58,9 @@ Here are some ideas to get you started:
 
 <h2> 🚀 My Projects </h2>
 
-- [Tours List](https://kresimirbruketa.github.io/ToursList/) - Short description
-- [Dice Game](https://kresimirbruketa.github.io/dicegame/) - Short description
+- [Tours List](https://kresimirbruketa.github.io/ToursList/) - Fetching data with Axios in React, deleting item from array (useState) and refreshing page
+- [Dice Game](https://kresimirbruketa.github.io/dicegame/) - Use of React Hook (useReducer), onClick changing text and dice images
+- [Revievs App](https://kresimirbruketa.github.io/Reviev_object/) - Destructuring object and use of object properties, onClick move to next or prev object
 
  <h2> ⚡ Finished Courses ⚡ </h2>
 
