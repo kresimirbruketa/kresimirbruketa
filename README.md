@@ -50,7 +50,7 @@ Here are some ideas to get you started:
 <h2>📫 Contact me </h2>
 
 <p align=left>
-<a href="https://www.linkedin.com/in/kre%C5%A1imir-bruketa-b94254137/" target="blank">>Linked In</a>
+<a href="https://www.linkedin.com/in/kre%C5%A1imir-bruketa-b94254137/">Linked In</a>
 
 - [Email](mailto:kresimir.bruketa@gmail.com)
 </p>
