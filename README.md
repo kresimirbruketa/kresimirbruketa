@@ -25,7 +25,9 @@ Here are some ideas to get you started:
 
 <h1 align="center">👋 Hi there, I'm Krešimir! 👋</h1>
 
-<h3 align="center">An mechanical engineer 😄 that is passionate developer from Croatia. Welcome to my GitHub profile!</h3>
+<h3 align="center">An mechanical engineer 😄 that is passionate developer from Croatia. </h3>
+<h3 align="center">Welcome to my GitHub profile!</h3>
+
 <p align="center">
 <img  alt="Coding" width="400" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
 </p>
@@ -62,7 +64,7 @@ Here are some ideas to get you started:
 <a href="https://www.udemy.com/course/the-complete-web-development-bootcamp/"><img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Ffreecoursesite.com%2Fwp-content%2Fuploads%2F2022%2F05%2F23184848.jpg&tbnid=ZYAQ8wPW2AuvrM&vet=12ahUKEwjty6jPqN-CAxUrgv0HHa2gDeMQMygBegQIARBO..i&imgrefurl=https%3A%2F%2Ffreecoursesite.com%2Fthe-complete-web-development-bootcamp-8%2F&docid=T4alXPOgve6llM&w=480&h=270&q=the-complete-web-development-bootcamp&ved=2ahUKEwjty6jPqN-CAxUrgv0HHa2gDeMQMygBegQIARBO" alt="course"/></a>
 
 <h2> ✨ My Skills </h2>
-	<p align="center">
+	<p >
 		<a href="https://skillicons.dev">
 		  <img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,mongodb" />
 		</a>
