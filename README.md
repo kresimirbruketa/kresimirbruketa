@@ -23,10 +23,10 @@ Here are some ideas to get you started:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kresimirbruketa&show_icons=true&locale=en&theme=tokyonight" alt="kresimirbruketa" /></p>
 -->
 
-<h1 align=center>👋 Hi there, I'm Krešimir! 👋</h1>
+<h1 align="center">👋 Hi there, I'm Krešimir! 👋</h1>
 
-<h3 align=center>An mechanical engineer 😄 that is passionate developer from Croatia. Welcome to my GitHub profile!</h3>
-<img align=center alt="Coding" width="400" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
+<h3 align="center">An mechanical engineer 😄 that is passionate developer from Croatia. Welcome to my GitHub profile!</h3>
+<img align="center" alt="Coding" width="400" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
 
 <h2>🔧 Technologies & Tools</h2>
 
