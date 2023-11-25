@@ -42,6 +42,7 @@ Here are some ideas to get you started:
 - Web Technologies: HTML, CSS, React
 - Databases: MongoDB
 - Tools: Git, VSCode
+- CAD software: Siemens NX, Creo, Catia, Solidworks
 
 <h2>🌱 I’m currently learning</h2>
 
