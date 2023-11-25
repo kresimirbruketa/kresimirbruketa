@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 
  <h2> ⚡ Finished Courses ⚡ </h2>
 
-- [The-complete-web-development-bootcamp]([link-to-repo](https://www.udemy.com/course/the-complete-web-development-bootcamp/)) - Short description
+- [The-complete-web-development-bootcamp]([(https://www.udemy.com/course/the-complete-web-development-bootcamp/)]) - Short description
 
 
 <h2>📊 GitHub Stats </h2>
