@@ -51,6 +51,7 @@ Here are some ideas to get you started:
 
 <p align=left>
 <a href="https://www.linkedin.com/in/kre%C5%A1imir-bruketa-b94254137/">Linked In</a>
+<a mailto:kresimir.bruketa@gmail.com>Email</a>
 
 - [Email](mailto:kresimir.bruketa@gmail.com)
 </p>
