@@ -48,3 +48,9 @@ Here are some ideas to get you started:
 <h2>📊 GitHub Stats </h2>
 
 [![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=kresimirbruketa&show_icons=true&theme=radical)](https://github.com/kresimirbruketa)
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kresimirbruketa&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="kresimirbruketa" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kresimirbruketa&show_icons=true&locale=en&theme=tokyonight" alt="kresimirbruketa" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kresmirbruketa&&theme=tokyonight" alt="kresimirbruketa" /></p>
